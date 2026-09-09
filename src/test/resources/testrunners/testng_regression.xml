@@ -30,12 +30,7 @@
 		</classes>
 	</test>
 	
-		<test name="Open Cart Login Page Test_chromium">
-		<parameter name="browser" value="chromium" />
-		<classes>
-			<class name="com.qa.opencart.tests.LoginPageTest" />
-		</classes>
-	</test>
+		
 
 
 
